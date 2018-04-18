@@ -5,7 +5,7 @@ NODE_ID = nodeid
 # hour,set 0 to disable
 SPEEDTEST = 0
 CLOUDSAFE = 0
-ANTISSATTACK = 1
+ANTISSATTACK = 0
 AUTOEXEC = 0
 
 MU_SUFFIX = 'wns.windows.com'
